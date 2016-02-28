@@ -1,0 +1,15 @@
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+#sidebar {
+	width:300px;
+	float:left;
+}
+
+#content {
+	width:724px;
+	float:right;
+	padding-left:24px;
+	
